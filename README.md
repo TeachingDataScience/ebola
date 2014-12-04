@@ -9,4 +9,4 @@ Created initially by a group of instructors from the [General Assembly](http://w
 * A teaching tool to illustrate to data science students the value their contributions can make to critical global issues
 
 
-For more information, please visit and contribute to the [wiki](https://github.com/TeachingDataScience/ebola/wiki).
+For more information, please visit the [wiki](https://github.com/TeachingDataScience/ebola/wiki).
