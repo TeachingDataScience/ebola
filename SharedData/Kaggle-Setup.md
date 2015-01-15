@@ -3,18 +3,55 @@ Once a basic Kaggle competition is setup, the competition can be transferred to 
 
 * [Competition Wizard Link](https://inclass.kaggle.com/join/k2k4-ugugzx-pvx3) (to edit competition)
 
+
+
+
+
 ## Basic Model
 
 The most simple model would be appropriate to start with.
 
 **Possible Targets**
-* Total Number of Cases
-    * As used by [mobs lab](http://www.mobs-lab.org/ebola.html)
+* Projections of Future Cases
+*  As used by [mobs lab](http://www.mobs-lab.org/ebola.html)
+* Case Fatality Rate
+   * Grew from 53% to 71%
+* Estimating the reproduction number
+    (currently between 1.5 and 2.5)
+    
 
 * Which characteristics of tweets predict an accelerated output?
    * EbolaTracking.org uses mentions on a map.
 
 ** Factors / Available Data **
+
+*Note: Generally the [HDX Site](https://data.hdx.rwlabs.org/ebola) is the most complete and convenient data source*
+
+* Transmission Methods
+    * Within families
+    * In hospitals 
+    * at funerals
+ 
+ * Geographic Data
+     * assembled by [geonode ](http://www.ebolageonode.org/)
+	* Boundaries 22
+	* Health 10
+	* Inland Waters 8
+	* Location 3
+	* Society 4
+	* Transportation 11
+	* Utilities Communication
+
+* Resource Flows
+   * By [donor and country](http://www.worldbank.org/en/topic/ebola/brief/global-ebola-response-resource-tracking)
+   * [Financial Tracking Service Page](http://fts.unocha.org/pageloader.aspx?page=emerg-emergencyDetails&emergID=16506)
+   * ![](http://note.io/1AUDrP7)
+   
+ * Cases by districts
+ * Availability of Safe Burial TEams
+   
+   
+    
 
 
 
