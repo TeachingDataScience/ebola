@@ -23,7 +23,7 @@ The most simple model would be appropriate to start with.
 * Which characteristics of tweets predict an accelerated output?
    * EbolaTracking.org uses mentions on a map.
 
-** Factors / Available Data **
+**Factors / Available Data**
 
 *Note: Generally the [HDX Site](https://data.hdx.rwlabs.org/ebola) is the most complete and convenient data source*
 
@@ -56,7 +56,7 @@ The most simple model would be appropriate to start with.
 
 
 
-** Training and Test Set **
+**Training and Test Set**
 
 
 
