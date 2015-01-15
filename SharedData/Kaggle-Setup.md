@@ -12,14 +12,14 @@ Once a basic Kaggle competition is setup, the competition can be transferred to 
 The most simple model would be appropriate to start with.
 
 **Possible Targets**
+
 * Projections of Future Cases
-*  As used by [mobs lab](http://www.mobs-lab.org/ebola.html)
+  *  As used by [mobs lab](http://www.mobs-lab.org/ebola.html)
 * Case Fatality Rate
    * Grew from 53% to 71%
 * Estimating the reproduction number
     (currently between 1.5 and 2.5)
     
-
 * Which characteristics of tweets predict an accelerated output?
    * EbolaTracking.org uses mentions on a map.
 
@@ -47,8 +47,8 @@ The most simple model would be appropriate to start with.
    * [Financial Tracking Service Page](http://fts.unocha.org/pageloader.aspx?page=emerg-emergencyDetails&emergID=16506)
    * ![](http://note.io/1AUDrP7)
    
- * Cases by districts
- * Availability of Safe Burial TEams
+* Cases by districts
+* Availability of Safe Burial TEams
    
    
     
