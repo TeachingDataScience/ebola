@@ -5,7 +5,7 @@ Collecting and discussion predictive models for Ebola.
 * Suitability for a Kaggle: **High**
 * Contact: **[Jeffrey Sherman](http://currents.plos.org/outbreaks/author/jls106/), Columbia University**
 * Method: **SEIRX** (see below)
-* Technical Publication/Notes: [Inference and Forecast of the Current West African Ebola Outbreak in Guinea, Sierra Leone and Liberia](Inference and Forecast of the Current West African Ebola Outbreak in Guinea, Sierra Leone and Liberia) 
+* Technical Publication/Notes: [Inference and Forecast of the Current West African Ebola Outbreak in Guinea, Sierra Leone and Liberia](http://currents.plos.org/outbreaks/article/inference-and-forecast-of-the-current-west-african-ebola-outbreak-in-guinea-sierra-leone-and-liberia/) 
 
 
 An excellent interactive (tableu) [website](http://cpid.iri.columbia.edu/) featuring Ebola predictions as well as the associated data from the WHO's Disease Outbreak News and Situation Reports
