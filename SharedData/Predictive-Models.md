@@ -1,5 +1,57 @@
 Collecting and discussion predictive models for Ebola.
 
+## Shaman et al / Columbia University "SEIRX" Model
+
+* Suitability for a Kaggle: **High**
+* Contact: **[Jeffrey Sherman](http://currents.plos.org/outbreaks/author/jls106/), Columbia University**
+* Method: **SEIRX** (see below)
+* Technical Publication/Notes: [Inference and Forecast of the Current West African Ebola Outbreak in Guinea, Sierra Leone and Liberia](Inference and Forecast of the Current West African Ebola Outbreak in Guinea, Sierra Leone and Liberia) 
+
+
+An excellent interactive (tableu) [website](http://cpid.iri.columbia.edu/) featuring Ebola predictions as well as the associated data from the WHO's Disease Outbreak News and Situation Reports
+Forecasting Cumulative Infections, Cumulative Mortality, and Number of Infections.
+
+#### Model of Spread - Compartmental Model
+
+From [Mobs Lab / Current Outbreaks](http://currents.plos.org/outbreaks/article/assessing-the-international-spreading-risk-associated-with-the-2014-west-african-ebola-outbreak/#ref1)
+
+![](http://note.io/1B6wnS1)
+
+
+#### Modeling Impact of Interventions in Sierra Leone and Liberia
+* [Caitlin Rivers et al](http://currents.plos.org/outbreaks/article/modeling-the-impact-of-interventions-on-an-epidemic-of-ebola-in-sierra-leone-and-liberia/)
+![](http://note.io/1B6k1cF)
+
+
+#### Mobs Lab - Total Number of Cases
+
+* [mobs lab](http://www.mobs-lab.org/ebola.html)
+
+
+#### SEIRX
+
+"Prior modeling studies of Ebola have used expanded versions of a susceptible-exposed-infectious-recovered (SEIR) model, in which additional compartments are employed to describe the Ebola transmission cycle more completely11,12,13 . For this effort, we add a compartment, X, for the deceased population to allow assimilation of mortality and case fatality rate data in addition to incidence. "
+
+![](http://currents.plos.org/outbreaks/files/2014/10/figure2-600x424.gif)
+
+
+#### Health Map Projections
+![](http://note.io/1B6lCyZ)
+
+* [Mapping Project](http://www.healthmap.org/ebola/#projection) using [IDEA model](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083622)
+
+## Brown/Oleisen SEIR
+
+#### Estimating and Predicting Epidemic Behavior for the 2014 West African Ebola Outbreak
+
+[Excellent site](http://grantbrown.github.io/Ebola-2014-Analysis-Archive/Oct_02_2014/Ebola2014/Ebola2014.html) detailing results of the modeling and the sources.
+
+* Contact: [Grant Brown](https://grantbrown.github.io/), University of Iowa
+
+
+## Other Lists of Models
+* [CDC Outbreaks](http://currents.plos.org/outbreaks/)
+
 ## Predictive Ebola Models (sourced by Health Intellgience)
 
 *Source: ["Health Intelligence" / Ramon Martinez](http://healthintelligence.drupalgardens.com/content/predicting-number-cases-ebola-virus-disease-outbreak-countries-widespread-and-intense)*
@@ -25,33 +77,6 @@ Collecting and discussion predictive models for Ebola.
 * David Fisman, Ashleigh Tuite. Projected Impact of vaccination Timing and Dose Availability on the Course of the 2014 West African Ebola Epidemic. PLOS Current Outbreak. Nov 21, 2014. [[Available online](http://currents.plos.org/outbreaks/article/projected-impact-of-vaccination-timing-and-dose-availability-on-the-course-of-the-2014-west-african-ebola-epidemic/)] 
 
 
-## Shaman et al / Columbia University "SEIRX" Model
-
-* Suitability for a Kaggle: **High**
-* Contact: **[Jeffrey Sherman](http://currents.plos.org/outbreaks/author/jls106/), Columbia University**
-* Method: **SEIRX** (see below)
-* Technical Publication/Notes: [Inference and Forecast of the Current West African Ebola Outbreak in Guinea, Sierra Leone and Liberia](Inference and Forecast of the Current West African Ebola Outbreak in Guinea, Sierra Leone and Liberia) 
-
-
-An excellent interactive (tableu) [website](http://cpid.iri.columbia.edu/) featuring Ebola predictions as well as the associated data from the WHO's Disease Outbreak News and Situation Reports
-Forecasting Cumulative Infections, Cumulative Mortality, and Number of Infections.
-
-A must-read.
-
-#### SEIRX
-
-"Prior modeling studies of Ebola have used expanded versions of a susceptible-exposed-infectious-recovered (SEIR) model, in which additional compartments are employed to describe the Ebola transmission cycle more completely11,12,13 . For this effort, we add a compartment, X, for the deceased population to allow assimilation of mortality and case fatality rate data in addition to incidence. "
-
-![](http://currents.plos.org/outbreaks/files/2014/10/figure2-600x424.gif)
-
-
-## Brown/Oleisen SEIR
-
-#### Estimating and Predicting Epidemic Behavior for the 2014 West African Ebola Outbreak
-
-[Excellent site](http://grantbrown.github.io/Ebola-2014-Analysis-Archive/Oct_02_2014/Ebola2014/Ebola2014.html) detailing results of the modeling and the sources.
-
-* Contact: [Grant Brown](https://grantbrown.github.io/), University of Iowa
 
 ![](http://snag.gy/rwjU6.jpg)
 
