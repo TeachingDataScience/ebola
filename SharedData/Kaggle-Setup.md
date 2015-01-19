@@ -99,7 +99,24 @@ The most simple model would be appropriate to start with.
 
 
 **Scoring Metrics**
-We'll have to choose which of the following scoring metrics to use:
+
+The analagous "Bike Sharing" competition used RMSLE.
+
+#### RMSLE EVALUATION
+
+Evaluating via the Root Mean Squared Logarithmic Error (RMSLE). The RMSLE is calculated as
+
+![](http://note.io/1BVWGJX)
+
+Where:
+
+* n is the number of days in the test set
+* pi is your predicted mortality count
+* ai is the actual mortality count
+* log(x) is the natural logarithm
+
+
+These are the possible metrics:
 
 * AUC (Area Under Receiver Operating Characteristic Curve) [binary-classification]
 * Gini (Gini Index) [binary-classification]
