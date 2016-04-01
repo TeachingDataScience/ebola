@@ -1,4 +1,4 @@
-Collecting and discussion predictive models for Ebola.
+Collecting and discussing predictive models for Ebola.
 
 ## Shaman et al / Columbia University "SEIRX" Model
 
